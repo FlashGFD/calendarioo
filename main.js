@@ -155,3 +155,5 @@ function marcar(){
 
 
 marcar()
+
+setInterval(marcar, 100)
